@@ -3,3 +3,5 @@ TutturuNime Nonton anime subtitle indonesia adalah tempat streaming anime dan do
 Zendrive anime , Download anime subtitle indonesia - https://zendrive.my.id/
 
 Bayu Saputra Front end developer - http://bayu-saputra.vercel.app/
+
+Wibu Blog - http://weaablog.vercel.app/
